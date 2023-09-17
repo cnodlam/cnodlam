@@ -36,4 +36,4 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cnodlam&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnodlam&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:cnodlam?theme=asoul"> 
+<img width="40%" src="https://count.getloli.com/get/@:cnodlam?theme=asoul"> 
